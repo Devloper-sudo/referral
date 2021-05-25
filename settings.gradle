@@ -1,0 +1,3 @@
+include ':referral'
+include ':app'
+rootProject.name = "AndroidLibraryModule"
